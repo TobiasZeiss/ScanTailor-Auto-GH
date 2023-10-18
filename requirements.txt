@@ -1,0 +1,8 @@
+streamlit
+pandas
+tkinter
+waiting
+time
+keyboard
+os
+multiprocessing
