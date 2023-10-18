@@ -1,6 +1,6 @@
 import streamlit as st
 from multiprocessing import Process
-import tkinter as tk
+#import tkinter as tk
 import os
 import pandas as pd
 import ScanTailorSkript
@@ -9,8 +9,8 @@ import time
 import keyboard
 import StopListenerSkript
 
-root = tk.Tk()
-root.withdraw()
+#root = tk.Tk()
+#root.withdraw()
 
 class InterruptException (Exception):
     pass

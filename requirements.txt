@@ -1,6 +1,5 @@
 streamlit
 pandas
-tkinter
 waiting
 time
 keyboard
